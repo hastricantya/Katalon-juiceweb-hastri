@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P.5 Switch Case Delivery</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b0181a8-69d8-4bbb-8c11-33666e2aa310</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>885fc955-bea8-49be-8a77-13687cfb2e67</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>885fc955-bea8-49be-8a77-13687cfb2e67</id>
+      <masked>false</masked>
+      <name>radio_delivery</name>
+   </variable>
+</TestCaseEntity>

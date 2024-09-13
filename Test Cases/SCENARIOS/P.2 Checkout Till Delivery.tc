@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P.2 Checkout Till Delivery</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b92f3b1-2504-4c47-8145-219ff8f9db92</testCaseGuid>
+</TestCaseEntity>

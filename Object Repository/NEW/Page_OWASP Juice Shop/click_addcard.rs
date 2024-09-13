@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_addcard</name>
+   <tag></tag>
+   <elementGuidId>8cd34afb-ca43-43cf-830c-cc091e461bac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-panel-title.mat-expansion-panel-header-title.ng-tns-c41-16</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-0']/span/mat-panel-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add new card Add a credit or debit card&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-panel-title</value>
+      <webElementGuid>207762a3-0903-4ad1-a670-0229fa430c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-expansion-panel-header-title ng-tns-c41-16</value>
+      <webElementGuid>d2a21c2a-ada9-4aa6-beee-c7dba1976eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add new card </value>
+      <webElementGuid>bbf15c1a-e3bb-4f4c-b078-4d0f72bfbeab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-0&quot;)/span[@class=&quot;mat-content ng-tns-c41-16&quot;]/mat-panel-title[@class=&quot;mat-expansion-panel-header-title ng-tns-c41-16&quot;]</value>
+      <webElementGuid>2cf5ed68-ca45-46b5-be0c-90d0d33b7485</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-0']/span/mat-panel-title</value>
+      <webElementGuid>13b6a629-52c6-448f-a309-f2922b2fb596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cancan'])[2]/following::mat-panel-title[1]</value>
+      <webElementGuid>dd519acb-8ab2-4a9d-b794-c2cbc53484df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='************5678'])[2]/following::mat-panel-title[1]</value>
+      <webElementGuid>1052c391-19cb-4d5c-a1c0-2ce070fa214a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a credit or debit card'])[1]/preceding::mat-panel-title[1]</value>
+      <webElementGuid>6f4a921d-5933-4f34-a0cb-8333b2c31f9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::mat-panel-title[1]</value>
+      <webElementGuid>320f3a88-28dc-4611-abc9-665cf3c011ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add new card']/parent::*</value>
+      <webElementGuid>c54c18bd-8184-4e1d-99e7-764cf1bda1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-panel-title</value>
+      <webElementGuid>2fcd9b4a-a84a-4195-af92-f2684e52cb06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-panel-title[(text() = ' Add new card ' or . = ' Add new card ')]</value>
+      <webElementGuid>6a152a42-7f89-44c3-b8dc-f20101fe9d02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

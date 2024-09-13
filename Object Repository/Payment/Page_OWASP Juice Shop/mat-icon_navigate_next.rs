@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_navigate_next</name>
+   <tag></tag>
+   <elementGuidId>ae4de6a6-428e-4f70-a4b6-3addcc70d6d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.btn.btn-next.mat-button.mat-raised-button.mat-button-base.mat-primary.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.material-icons.mat-ligature-font.mat-icon-no-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='card']/app-address/mat-card/button/span/mat-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Proceed to payment selection&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>86012686-1a33-45d0-8510-b7fc4e7094e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3c5d6aad-2f2c-4bb6-b25d-07ab340cf9f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color</value>
+      <webElementGuid>2b3322d9-3e83-4d66-945d-a53e40dc1089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>eabbe67a-4cfe-40e2-8da7-73ab48601f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>95fb3bfa-d893-4896-bcfc-8c1029992c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> navigate_next </value>
+      <webElementGuid>e745832c-1900-477b-a865-9c54c2c2bdbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;card&quot;)/app-address[1]/mat-card[@class=&quot;mat-card mat-focus-indicator mat-elevation-z6&quot;]/button[@class=&quot;mat-focus-indicator btn btn-next mat-button mat-raised-button mat-button-base mat-primary ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
+      <webElementGuid>0b06327b-17e7-4658-8aa7-953d819c390e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='card']/app-address/mat-card/button/span/mat-icon</value>
+      <webElementGuid>e0573bd3-666b-413a-8afe-0ca7dc851f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Address'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>59ac267b-7773-4566-b618-91041743b399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[4]/following::mat-icon[2]</value>
+      <webElementGuid>6b717d2d-c0bc-4af6-a8d6-cdfbfd256c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>e152099d-cad8-4b7e-8feb-fadba016eade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open side menu'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>f5fd4511-904c-4f9e-b5de-71645f1fd418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='navigate_next']/parent::*</value>
+      <webElementGuid>3578c087-cca6-450a-96e9-7db68d81cef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card/button/span/mat-icon</value>
+      <webElementGuid>f410d1c0-8676-4c4b-8c24-e2d51abfab56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = ' navigate_next ' or . = ' navigate_next ')]</value>
+      <webElementGuid>6e56b8d8-2d5e-42d0-8834-630b1108d68f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

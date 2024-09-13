@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_address</name>
+   <tag></tag>
+   <elementGuidId>b0b9c965-cdfc-4ef9-a63f-a15eda71835e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-cell.mat-cell.cdk-cell.cdk-column-Selection.mat-column-Selection.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='card']/app-address/mat-card/mat-table/mat-row/mat-cell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Hastri Indonesia, Indonesia, , 12345 Indonesia&quot;i] >> internal:role=cell >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-cell</value>
+      <webElementGuid>e0d1100a-85a4-4820-968b-639adea80d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>2c29bbde-950c-440e-8968-df6d0f3acc3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex</name>
+      <type>Main</type>
+      <value>20%</value>
+      <webElementGuid>c3002214-e5b8-41f1-976c-28a448028981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-cell cdk-cell cdk-column-Selection mat-column-Selection ng-star-inserted</value>
+      <webElementGuid>50312fa5-fc9d-45c3-a62a-9e153330ef55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>03924f63-574b-425f-89b0-de2d84f69db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;card&quot;)/app-address[1]/mat-card[@class=&quot;mat-card mat-focus-indicator mat-elevation-z6&quot;]/mat-table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/mat-row[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-Selection mat-column-Selection ng-star-inserted&quot;]</value>
+      <webElementGuid>97a4e0d2-0bc4-4bbc-a37c-ccd263292947</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='card']/app-address/mat-card/mat-table/mat-row/mat-cell</value>
+      <webElementGuid>13e868ad-cabf-4210-95ff-b5c137a8674b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an address'])[1]/following::mat-cell[1]</value>
+      <webElementGuid>c27418d3-463e-4def-8814-0fdbd2691418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy to clipboard'])[3]/following::mat-cell[1]</value>
+      <webElementGuid>ee15e54e-9640-4cb2-bb35-e16546270a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hastri'])[1]/preceding::mat-cell[1]</value>
+      <webElementGuid>2108de2f-5ecc-4a3e-b97b-cfec84795d26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia, Indonesia, , 12345'])[1]/preceding::mat-cell[2]</value>
+      <webElementGuid>c825b0ca-0b03-4e7c-bece-0c07c7e98d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-cell</value>
+      <webElementGuid>9c24bf89-f3e4-4511-868a-4a60a9c88893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-cell[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>a1df81a9-580b-41a6-9e41-852358619490</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

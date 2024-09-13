@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Account</name>
+   <tag></tag>
+   <elementGuidId>07db3106-52a5-4a36-a8c3-d3b7940619ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#navbarAccount > span.mat-button-wrapper > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='navbarAccount']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Show/hide account menu&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>097d30dc-aff0-41d1-87b6-be835d494a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Account </value>
+      <webElementGuid>f7f01b44-c16f-4774-9a98-7d5cbdc11588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarAccount&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/span[1]</value>
+      <webElementGuid>f4b14cd0-6f8c-4238-8c63-11ad48ccc22a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='navbarAccount']/span/span</value>
+      <webElementGuid>8b84114a-7adc-4a03-a99e-eb472b824d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='account_circle'])[1]/following::span[1]</value>
+      <webElementGuid>4dcb8578-2f40-430a-8c93-82da74f71de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OWASP Juice Shop'])[4]/following::span[8]</value>
+      <webElementGuid>de19347d-a0cb-424b-9974-be217a43aee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/preceding::span[3]</value>
+      <webElementGuid>aff555ad-886e-43cf-9d5f-7fbeb257505e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Products'])[1]/preceding::span[7]</value>
+      <webElementGuid>4cb41378-da7e-4594-bbc9-0216e30ee6c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span/span</value>
+      <webElementGuid>e73825e4-75e0-4856-a2fd-17611a9c8a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Account ' or . = ' Account ')]</value>
+      <webElementGuid>c167b328-1ba4-4704-8cfa-5b44e6ec549b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

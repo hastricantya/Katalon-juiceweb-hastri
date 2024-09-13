@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P.3 Checkout Till Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b4d79f4-b6c7-468e-96a9-76a55bb71f8e</testCaseGuid>
+</TestCaseEntity>

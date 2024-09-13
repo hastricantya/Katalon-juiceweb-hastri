@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_standard</name>
+   <tag></tag>
+   <elementGuidId>565e672e-dabb-4aa7-9fbf-473e54a6ac4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-row[3]/mat-cell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Standard Delivery 0.00¤ 5 Days&quot;i] >> internal:role=cell >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-cell</value>
+      <webElementGuid>35274b83-1cd0-4a26-ae8c-8ba83b7157b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>bae157b4-45fd-4b66-bbb1-2e8a708ca00d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex</name>
+      <type>Main</type>
+      <value>20%</value>
+      <webElementGuid>65d7fc5c-0807-451f-8644-e3a9f83c359c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-cell cdk-cell cdk-column-Selection mat-column-Selection ng-star-inserted</value>
+      <webElementGuid>8b25ef86-7654-4157-bdbe-d6733780cd55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>487ddaec-31c0-487a-9055-5246e671a6f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;mat-app-background bluegrey-lightgreen-theme&quot;]/app-root[1]/div[@class=&quot;mat-typography&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/app-delivery-method[@class=&quot;ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator mat-elevation-z6&quot;]/div[3]/mat-table[@class=&quot;mat-table cdk-table&quot;]/mat-row[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-Selection mat-column-Selection ng-star-inserted&quot;]</value>
+      <webElementGuid>3605f600-89d5-49a4-9705-b877bf4b8508</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-row[3]/mat-cell</value>
+      <webElementGuid>19669356-2a35-41e0-8544-df03b4e8d912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-cell[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>3a0ab7ce-23ea-4b48-90a0-5bbcaa2395ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
